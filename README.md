@@ -36,3 +36,5 @@ Aprendendo Angular
 ### O que é um Componente?
 * "Um pedaço dentro da aplicação", um trecho de código que representa um componente visual da tela
 * Componente Visual: **HTML -> CSS -> TS**
+
+![alt text](https://i.stack.imgur.com/ikdXy.png)
