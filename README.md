@@ -27,3 +27,12 @@ Aprendendo Angular
 * APPComponent -> Content -> ContentTitle
 * APPComponent -> Content -> ProductCrud -> ProductForm -> Input
 * APPComponent -> Content -> ProductCrud -> ProductForm -> Button
+
+### Inicialização da APP
+* 1º arquivo **_main.ts_**
+* Este aquivo chama o **_AppModule_**
+* **_main.ts -> AppModule -> AppComponent -> x
+
+### O que é um Componente?
+* "Um pedaço dentro da aplicação", um trecho de código que representa um componente visual da tela
+* Componente Visual: **HTML -> CSS -> TS**
