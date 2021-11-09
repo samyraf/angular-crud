@@ -38,5 +38,5 @@ Aprendendo Angular
 * Componente Visual: **HTML -> CSS -> TS**
 
 ### Anatomia do Módulo
-<img width="728" alt="anatomia-do-modulo" src="https://user-images.githubusercontent.com/78311671/140981629-d90765e8-695a-4a13-bc6a-5de367ebad76.png">
+<img width="500" alt="anatomia-do-modulo" src="https://user-images.githubusercontent.com/78311671/140981629-d90765e8-695a-4a13-bc6a-5de367ebad76.png">
 
