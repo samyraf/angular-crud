@@ -31,7 +31,7 @@ Aprendendo Angular
 ### Inicialização da APP
 * 1º arquivo **_main.ts_**
 * Este aquivo chama o **_AppModule_**
-* **_main.ts -> AppModule -> AppComponent -> x
+* **_main.ts -> AppModule -> AppComponent -> x_**
 
 ### O que é um Componente?
 * "Um pedaço dentro da aplicação", um trecho de código que representa um componente visual da tela
