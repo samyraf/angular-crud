@@ -17,4 +17,13 @@ Aprendendo Angular
 
 ### TypeScript
 * Linguagem criada pela **Microsoft**
-* 
+* O código escrito em TypeScript é **compilado** para JavaScrit, pois o browser não reconhece a sintaxe do TS
+* TS é um Superset de JS, possui tudo que o JS tem e acrescenta uma série de funcionalides a mais - (TS possui **Tipagem Forte**)...
+
+### Árvore de Componentes - exemplo
+* Começa a aplicação, a partir de um componente principal (raiz da aplicação) - APPComponent
+* APPComponent -> Header -> Nav -> List -> Item
+* APPComponent -> Header -> Nav -> List -> Item
+* APPComponent -> Content -> ContentTitle
+* APPComponent -> Content -> ProductCrud -> ProductForm -> Input
+* APPComponent -> Content -> ProductCrud -> ProductForm -> Button
