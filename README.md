@@ -62,7 +62,12 @@ Aprendendo Angular
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141179109-b92fddd2-322a-48cd-ae55-99325fb0959d.png">
 
 #### 4. Property Binding
-<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141180216-e6d37343-5255-440d-8d4b-7c735f72b811.png">
+* Necessidade de comunicação entre o código TS e o código HTML
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141181179-2b692030-7da5-483e-9998-9351fcf230af.png">
+
+#### 5. Event Binding
+* Como ligar um evento do HTML para um método que está dentro de um componente associado aquele HTML
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141181619-8e0e77b1-353f-4e77-8af0-88c585426e3b.png">
 
 
 
