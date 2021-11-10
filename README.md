@@ -80,7 +80,6 @@ Aprendendo Angular
 #### 8. Angular Router 
 * sempre que navegamos na aplicação, basicamente é feito um mapeamento entre a rota e o componente
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141209873-1989073c-740a-45c9-98ae-d646809378ec.png">
-
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210110-53b2f871-fd45-4d0f-9a37-63a6979bd914.png">
 
 #### 9. Angular Pipes
