@@ -61,5 +61,8 @@ Aprendendo Angular
 * Altera o layout **adicionando** e **removendo** elementos da **_DOM_**
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141179109-b92fddd2-322a-48cd-ae55-99325fb0959d.png">
 
+#### 4. Property Binding
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141180216-e6d37343-5255-440d-8d4b-7c735f72b811.png">
+
 
 
