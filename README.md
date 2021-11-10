@@ -55,8 +55,11 @@ Aprendendo Angular
 <img width="500" alt="directive" src="https://user-images.githubusercontent.com/78311671/141170343-95673c50-d1ab-4ad7-ad50-c54451b348d3.png">
 
 * Decorator = padão de projeto; Ex.: **@Directive**
-<img width="500" alt="directive" src="https://user-images.githubusercontent.com/78311671/141177730-aa0029a8-252f-42e1-b55c-d6201a8f6845.png">
+<img width="500" alt="exemploo" src="https://user-images.githubusercontent.com/78311671/141177730-aa0029a8-252f-42e1-b55c-d6201a8f6845.png">
 
+#### 3. Structural Directives
+* Altera o layout **adicionando** e **removendo** elementos da **_DOM_**
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141179109-b92fddd2-322a-48cd-ae55-99325fb0959d.png">
 
 
 
