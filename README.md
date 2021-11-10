@@ -73,4 +73,7 @@ Aprendendo Angular
 * TS para HTML
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141182338-003a1298-c910-4e34-bdfe-d081b24d6417.png">
 
+#### 7. Two Way Data Binging
+* Se atualiza o TS - altera o HTML // Se atualiza o HTML - altera o TS
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141182866-53faca11-b9cf-4874-af24-20d5b4ba9791.png">
 
