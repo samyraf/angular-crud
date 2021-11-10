@@ -49,6 +49,10 @@ Aprendendo Angular
 *      **HTML _(home.component.html)_ -> CSS _(home.component.css) -> TS _(home.component.ts)_  /// -> _(<app-home></app-home>)_
 * Não necessáriamente presisa ter style **(.css)** no componente, apenas ter o HTML e o TS
 * Não é obrigado a ter o aquivo **.html**, pode-se colocar o template dentro do TS
-* 
+
+#### 2. Attribute Directives
+* Altera a **aparência** e o **comportamento** de um elemento, componente ou outra diretiva
+* ![image](https://user-images.githubusercontent.com/78311671/141170343-95673c50-d1ab-4ad7-ad50-c54451b348d3.png)
+
 
 
