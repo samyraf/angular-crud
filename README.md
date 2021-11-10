@@ -77,3 +77,16 @@ Aprendendo Angular
 * Se atualiza o TS - altera o HTML // Se atualiza o HTML - altera o TS
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141182866-53faca11-b9cf-4874-af24-20d5b4ba9791.png">
 
+#### 8. Angular Router 
+* sempre que navegamos na aplicação, basicamente é feito um mapeamento entre a rota e o componente
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141209873-1989073c-740a-45c9-98ae-d646809378ec.png">
+
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210110-53b2f871-fd45-4d0f-9a37-63a6979bd914.png">
+
+#### 9. Angular Pipes
+* Processamentos feitos em cima de variáveis
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210486-f9fddc16-6615-4944-826e-b2b2cff990e8.png">
+
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210553-8a502eb0-1358-4e8d-8a26-efa3dc6bf015.png">
+
+
