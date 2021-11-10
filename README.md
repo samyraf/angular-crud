@@ -86,7 +86,7 @@ Aprendendo Angular
 #### 9. Angular Pipes
 * Processamentos feitos em cima de variáveis
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210486-f9fddc16-6615-4944-826e-b2b2cff990e8.png">
-
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141210553-8a502eb0-1358-4e8d-8a26-efa3dc6bf015.png">
+
 * Pode ser usado uma cadeia de Pipes - CHAINING 
 
