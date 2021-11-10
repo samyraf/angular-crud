@@ -61,13 +61,16 @@ Aprendendo Angular
 * Altera o layout **adicionando** e **removendo** elementos da **_DOM_**
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141179109-b92fddd2-322a-48cd-ae55-99325fb0959d.png">
 
-#### 4. Property Binding
+#### 4. Property Binding []
 * Necessidade de comunicação entre o código TS e o código HTML
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141181179-2b692030-7da5-483e-9998-9351fcf230af.png">
 
-#### 5. Event Binding
+#### 5. Event Binding ()
 * Como ligar um evento do HTML para um método que está dentro de um componente associado aquele HTML
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141181619-8e0e77b1-353f-4e77-8af0-88c585426e3b.png">
 
+#### 6. One Way Data Binding
+* TS para HTML
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141182338-003a1298-c910-4e34-bdfe-d081b24d6417.png">
 
 
