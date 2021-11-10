@@ -46,7 +46,7 @@ Aprendendo Angular
 ### Elementos do Angular #1
 #### 1. Componente Angular 
 * Formado por via de regra, por 3 partes: 
-* **HTML _(home.component .html) -> CSS (home.component .css) -> TS (home.component .ts)_** **_(< app-home> ? < /app-home>)_**
+* **HTML _(home.component .html) -> CSS (home.component .css) -> TS (home.component .ts)_** ---> **_(< app-home> ? < /app-home>)_**
 * Não necessáriamente presisa ter style **(.css)** no componente, apenas ter o HTML e o TS
 * Não é obrigado a ter o aquivo **.html**, pode-se colocar o template dentro do TS
 
