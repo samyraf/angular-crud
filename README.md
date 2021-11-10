@@ -53,7 +53,8 @@ Aprendendo Angular
 #### 2. Attribute Directives
 * Altera a **aparência** e o **comportamento** de um elemento, componente ou outra diretiva
 <img width="500" alt="directive" src="https://user-images.githubusercontent.com/78311671/141170343-95673c50-d1ab-4ad7-ad50-c54451b348d3.png">
-
+* Decorator = padão de projeto; Ex.: **@Directive**
+<img width="500" alt="directive" src="https://user-images.githubusercontent.com/78311671/141177730-aa0029a8-252f-42e1-b55c-d6201a8f6845.png">
 
 
 
