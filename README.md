@@ -89,3 +89,5 @@ Aprendendo Angular
 
 * Pode ser usado uma cadeia de Pipes - CHAINING 
 
+### Elementos do Angular #2
+
