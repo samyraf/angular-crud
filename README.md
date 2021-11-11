@@ -43,7 +43,7 @@ Aprendendo Angular
 ### Organização Usando Módulo
 <img width="500" alt="organiacao" src="https://user-images.githubusercontent.com/78311671/140982338-6681bead-3604-4939-a425-35a5f98dc158.png">
 
-### Elementos do Angular #1
+### Elementos do Angular 
 #### 1. Componente Angular 
 * Formado por via de regra, por 3 partes: 
 * **HTML _(home.component .html) -> CSS (home.component .css) -> TS (home.component .ts)_** ---> **_(< app-home> ? < /app-home>)_**
@@ -89,5 +89,6 @@ Aprendendo Angular
 
 * Pode ser usado uma cadeia de Pipes - CHAINING 
 
-### Elementos do Angular #2
-
+#### 10. Angular Observables
+* Programação Reativa - Angular usa o framework **ReactiveX**
+*   `import { Observable } from "rcjs";` 
