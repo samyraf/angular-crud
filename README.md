@@ -44,7 +44,7 @@ Aprendendo Angular
 <img width="500" alt="organiacao" src="https://user-images.githubusercontent.com/78311671/140982338-6681bead-3604-4939-a425-35a5f98dc158.png">
 
 ### Elementos do Angular 
-#### 1. Componente Angular 
+#### 1. Angular Componentes
 * Formado por via de regra, por 3 partes: 
 * **HTML _(home.component .html) -> CSS (home.component .css) -> TS (home.component .ts)_** ---> **_(< app-home> ? < /app-home>)_**
 * Não necessáriamente presisa ter style **(.css)** no componente, apenas ter o HTML e o TS
@@ -96,4 +96,9 @@ Aprendendo Angular
 * Ele é um padrão orientado a **EVENTO!**
 * **Subject** - monitora e detecta quando o evento acontece
 * Ex.: **Observer** faz um "registro" no **Subject**, informando qual evento ele deseja receber notificações, e o **Subject** detecta o evento e notifica
+* Observables --> é **reusável**, consegue lidar com **stream de dados**, e possuem uma série de **operadores** (funções)
+* Só tem programação reativa a partir do padrão **Observer**, ou seja, apenas quando o evento acontece, que o código, vai de forma reativa agir...
+
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141490683-9c7552f2-c619-4c42-ab45-9f10fa6d39a8.png">
+
 
