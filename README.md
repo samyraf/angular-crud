@@ -106,9 +106,10 @@ Aprendendo Angular
 * Para criar um service pode se usar o comando: `ng g s services/product`
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141493578-c3e04707-e2c2-4014-b063-563b4858ef9f.png">
 
-
-
-
+* **Injeção de Dependência** ---> É um padrão no qual a classe recebe as dependências de uma fonte externa ao invés de criar por conta própria
+* Services são **singletons** (apenas uma única instancia) dentro do escopo de um **injector** _(ModuleInjector) & (ElementInjector)_
+* **ModuleInjector** - `@NgModule` e `@Injectable` (instancia única)
+* **ElementInjector** - `@Directive` e `@Component` (instancia própria dentro do componente)
 
 
 
