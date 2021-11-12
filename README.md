@@ -91,4 +91,9 @@ Aprendendo Angular
 
 #### 10. Angular Observables
 * Programação Reativa - Angular usa o framework **ReactiveX**
-*   `import { Observable } from "rcjs";` 
+*   `import { Observable } from "rxjs";` 
+* Tudo começa a partir do padrão **Observer**:
+* Ele é um padrão orientado a **EVENTO!**
+* **Subject** - monitora e detecta quando o evento acontece
+* Ex.: **Observer** faz um "registro" no **Subject**, informando qual evento ele deseja receber notificações, e o **Subject** detecta o evento e notifica
+
