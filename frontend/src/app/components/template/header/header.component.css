@@ -1,6 +1,7 @@
 .header {
     display: flex;
     align-items: center;
+    max-height: 50px;
     background-color: rgb(168, 194, 172);
 }
 
@@ -11,7 +12,7 @@
 }
 
 .header .logo {
-    max-height: 32px;
+    max-height: 25px;
 }
 
 .header .title-group {
