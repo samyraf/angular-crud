@@ -101,4 +101,21 @@ Aprendendo Angular
 
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/78311671/141490683-9c7552f2-c619-4c42-ab45-9f10fa6d39a8.png">
 
+#### 11. Angular Services
+* **O que são Services?** São classes que têm como principal objetivo **organizar** e **compartilhar** _métodos_ e _dados_ entre **componentes**
+* Para criar um service pode se usar o comando: `ng g s services/product`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
